@@ -1,4 +1,4 @@
-# COMP0169-Machine-Learning-for-Visual-Computing-2020
+# COMP0169-Machine-Learning-for-Visual-Computing-2021
 
 
 COMP0169 Machine Learning for Visual Computing
